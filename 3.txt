@@ -1,0 +1,22 @@
+atm scenario
+positive
+check that Machine accepts card and PIN detail
+check that Machine successfully take out the money
+check that takes out the balance print after the withdraw
+check that logs out of the client session immediately after withdraw successfully
+check that generates invalid money error to money asked larger than the saving account balance
+ checks for the fix time in between the client sesion and wait period active in account
+check that accepts both Visa and Mastercard credit and debit cards
+
+Negative 
+
+check that Machine does not accept card and PIN
+check that Machine find wrong PIN
+check that Machine find card insert in wrong way
+check that Machine takes 3 invalid PIN attempt
+check that Invalid account type selected in the menu
+Expired card inserted in the machine
+Money amount less than 100 entered in the machine.
+check that Machine does not take out the money
+check that Machine can’t take the balance after withdraw
+check that Machine doesn’t print the withdrawal amount

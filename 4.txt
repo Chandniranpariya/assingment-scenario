@@ -1,0 +1,15 @@
+smart watch and normal watch diffrent both watch positive and nagative scenario
+
+To check that all internal parts of both Watch is fitted properly or not
+to verify that the type of Watch- digital watch, normal watch
+To verify that the company name or logo of the make is on Watch or not
+To verify that the weight of the Watch
+To check that the Watch is available with some button or not
+To verify that watchbrand is available in Plastic, Metal, or leather strap with the watch or not as per requirement
+To verify that the user can use different power cell betry with watch
+To check that Watch hour needle is working properly or not
+To check that Watch minute needle is working properly or not
+To check that Watch second needle is working properly or not
+to Check that the smart Watch minute section is working properly or not
+to Check that the smart Watch second section is working properly or not
+To check that the smart Watch hour section is working properly or not

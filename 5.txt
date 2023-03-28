@@ -1,0 +1,9 @@
+water bottle positive and nagative scenario
+
+
+to Check that the brand name is seen on the water bottle
+to Check that the material of the water bottle is Plastic, steel, etc 
+to Check that the brand logo is visible on the water bottle
+to Check that the maximum temperature of the water allowed
+to Check that the minimum temperature of the water allowed
+to Check the water bottle’s condition with different liquid water, tea, milk , coffe
